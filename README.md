@@ -1,9 +1,22 @@
-### Hi there 👋
+<h1>Hello, I'm Vivi 👋</h1>
 
-<!--
-**vivi4531/vivi4531** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm a multimediadesign student @ Copenhagen School of Design & Tehcnology 🤓</p>
 
-Here are some ideas to get you started:
+
+<h3>Currently working on ⌨️</h3>
+<ul> 
+  <li>School projects 📚</li>
+  <li>Learning Figma </li>
+  <li> </li>
+  <li> </li>
+  <li> </li>
+</ul>
+
+<h3></h3>
+<ul> 
+  <li>I want to become a better frontend developer and for that I will start using <a href="https://www.frontendpractice.com/">Frontend Practice</a> for increasing my skills.</li>
+  
+</ul>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
