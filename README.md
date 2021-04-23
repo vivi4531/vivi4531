@@ -20,8 +20,8 @@
 
 <h3>Follow me 📲</h3>
 <ul> 
-	<li><a href=“https://www.instagram.com/vivimortensen/”>Personal Instagram @vivimortensen 💁🏻‍♀️</a></li>
-	<li><a href=“https://www.instagram.com/vivse.art/”>Creative Instagram @vivse.art 🎨</a></li>
-	<li><a href=“https://www.pinterest.dk/vivimortensen93/“>Pinterest @vivimortensen93 📌</a></li>
-	<li><a href=“https://twitter.com/mortensen_vivi”>Twitter @mortensen_vivi 🐦</a></li>
+	<li><a href="https://www.instagram.com/vivimortensen/">Personal Instagram @vivimortensen 💁🏻‍♀️</a></li>
+	<li><a href="https://www.instagram.com/vivse.art/">Creative Instagram @vivse.art 🎨</a></li>
+	<li><a href="https://www.pinterest.dk/vivimortensen93/">Pinterest @vivimortensen93 📌</a></li>
+	<li><a href="https://twitter.com/mortensen_vivi">Twitter @mortensen_vivi 🐦</a></li>
 </ul>
