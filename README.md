@@ -2,28 +2,26 @@
 
 <p>I'm a multimediadesign student @ Copenhagen School of Design & Tehcnology 🤓</p>
 
-
 <h3>Currently working on ⌨️</h3>
 <ul> 
-  <li>School projects 📚</li>
-  <li>Learning Figma </li>
-  <li> </li>
-  <li> </li>
-  <li> </li>
+	<li>A new version of my professional portfolio 🔧 Current available <a href=“http://vivimortensen.dk/”>here 👈🏻</a></li>
+	<li><a href="https://www.frontendpractice.com/">Frontend Practice</a> for increasing my skills as a frontend developer 🤓</li>
+	<li>Projects at school 📚 Atm. forms & react 🤠</li>
+	<li>Learning Figma 🖼</li>
 </ul>
 
-<h3></h3>
+<h3>Facts ⚡</h3>
 <ul> 
-  <li>I want to become a better frontend developer and for that I will start using <a href="https://www.frontendpractice.com/">Frontend Practice</a> for increasing my skills.</li>
-  
+	<li>I always drink coffee with milk & sugar ☕️ (and prefer ice coffee ❄️)</li>
+	<li>In my sparetime I do nails 💅🏻</li>
+	<li>Keywords about me is UX, UI & graphic design ✔️</li>
 </ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>Follow me 📲</h3>
+<ul> 
+	<li><a href=“https://www.instagram.com/vivimortensen/”>Personal Instagram @vivimortensen 💁🏻‍♀️</a></li>
+	<li><a href=“https://www.instagram.com/vivse.art/”>Creative Instagram @vivse.art 🎨</a></li>
+	<li><a href=“https://www.pinterest.dk/vivimortensen93/“>Pinterest @vivimortensen93 📌</a></li>
+	<li><a href=“https://twitter.com/mortensen_vivi”>Twitter @mortensen_vivi 🐦</a></li>
+</ul>
