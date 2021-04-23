@@ -4,7 +4,7 @@
 
 <h3>Currently working on ⌨️</h3>
 <ul> 
-	<li>A new version of my professional portfolio 🔧 Current website available <a href=“https://www.vivimortensen.dk/”>here 👈🏻</a></li>
+	<li>A new version of my professional portfolio 🔧 Current website available <a href="https://www.vivimortensen.dk/">here 👈🏻</a></li>
 	<li><a href="https://www.frontendpractice.com/">Frontend Practice</a> for increasing my skills as a frontend developer 🤓</li>
 	<li>Projects at school 📚 Atm. forms & react 🤠</li>
 	<li>Learning Figma 🖼</li>
