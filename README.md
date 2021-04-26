@@ -1,6 +1,6 @@
 <h1>Hello, I'm Vivi 👋</h1>
 
-<p>I'm a multimediadesign student @ Copenhagen School of Design & Tehcnology 🤓</p>
+<p>I'm a multimediadesign student @ Copenhagen School of Design & Technology 🤓</p>
 
 <h3>Currently working on ⌨️</h3>
 <ul> 
