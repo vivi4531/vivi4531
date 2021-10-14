@@ -6,8 +6,7 @@
 <ul> 
 	<li>A new version of my professional portfolio 🔧 Current website available <a href="https://www.vivimortensen.dk/">here 👈🏻</a></li>
 	<li><a href="https://www.frontendpractice.com/">Frontend Practice</a> for increasing my skills as a frontend developer 🤓</li>
-	<li>Projects at school 📚 Atm. forms & react 🤠</li>
-	<li>Learning Figma 🖼</li>
+	<li>Projects at school 📚 Atm. internship assignment. Next up is the final exam project 🤠</li>
 </ul>
 
 <h3>Facts ⚡</h3>
@@ -21,7 +20,6 @@
 <h3>Follow me 📲</h3>
 <ul> 
 	<li>Personal Instagram<a href="https://www.instagram.com/vivimortensen/"> @vivimortensen 💁🏻‍♀️</a></li>
-	<li>Creative Instagram<a href="https://www.instagram.com/vivse.art/"> @vivse.art 🎨</a></li>
 	<li>Pinterest<a href="https://www.pinterest.dk/vivimortensen93/"> @vivimortensen93 📌</a></li>
 	<li>Twitter<a href="https://twitter.com/mortensen_vivi"> @mortensen_vivi 🐦</a></li>
 </ul>
